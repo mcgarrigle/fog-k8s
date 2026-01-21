@@ -2,7 +2,7 @@
 
 PATH=$PATH:../fog
 
-export HOST=null
+export HOST="?"
 export POOL="filesystems"
 export IMAGE="rocky9.qcow2"
 export OS="rocky9"
@@ -14,7 +14,7 @@ export ROOT_SIZE="10G"
 
 export NETWORK="default"
 export NETWORK_DEVICE="eth0"
-export IP_ADDRESS="192.168.1.24"
+export IP_ADDRESS="?"
 export GATEWAY_ADDRESS="192.168.1.254"
 export DNS_SERVER="1.1.1.1"
 
