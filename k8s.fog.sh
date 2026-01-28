@@ -33,6 +33,6 @@ function node {
 
 COMMAND="$1"
 
-node k8s1 192.168.1.41
-node k8s2 192.168.1.42
-node k8s3 192.168.1.43
+node k8s1.mac.wales 192.168.1.41
+node k8s2.mac.wales 192.168.1.42
+node k8s3.mac.wales 192.168.1.43
